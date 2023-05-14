@@ -1,0 +1,5 @@
+t01p02s01c0,0.3535434
+t01p02s01c1,0.364563563
+t01p02s01c2,0.356736583
+
+etc... (no gaps, headers, spaces etc allowed!)

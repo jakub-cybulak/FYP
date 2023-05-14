@@ -1,0 +1,9 @@
+# Configuration file for print_stockwell.py
+# Format:
+# Stem, Sniplength (Force), Lower Wear, Higher Wear, S.Opts (Force), S.Opts (Acceleration), S.Opts (Sound)
+# Where S.Opts are Stockwell transfrom options (note that some may be overwritten by the mne toolbox function - read documentation):
+# Sampling Frequency; Gaussian Window Width; Fast Fourier Transform Width; Decimator; Lower Freq Limit; Higher Frequency Limit
+t01p02s01,90,0.364,0.643,1000;1;1000;1;15;500,10000;3;10000;1;15;5000,40000;12;10000;10;15;20000
+t02p01s01,90,0.212,0.368,1000;1;1000;1;15;500,10000;3;10000;1;15;5000,40000;12;10000;10;15;20000
+
+etc... no spaces, empty lines allowed
